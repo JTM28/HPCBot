@@ -1,0 +1,11 @@
+
+*.txt
+!requirements.txt
+
+*.log
+
+**/cache
+**/tmp
+
+credentials.yaml
+
